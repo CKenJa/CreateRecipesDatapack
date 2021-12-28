@@ -1,5 +1,5 @@
 {
-    "type": "create:cutting",
+    "type": "create:crushing",
     "ingredients": [
       {
         "item": "create:scoria"
@@ -10,5 +10,5 @@
         "item": "minecraft:soul_sand"
       }
     ],
-    "processingTime": 50
+    "processingTime": 250
   }
