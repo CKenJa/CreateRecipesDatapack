@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "create:scoria"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:soul_sand"
+      }
+    ],
+    "processingTime": 50
+  }

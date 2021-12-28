@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:bone_block"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:bone",
+        "count": 2
+      }
+    ],
+    "processingTime": 50
+  }

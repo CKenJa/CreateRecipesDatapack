@@ -1,0 +1,24 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "minecraft:amethyst_shard"
+      },
+      {
+        "item": "minecraft:amethyst_shard"
+      },
+      {
+        "item": "minecraft:diorite"
+      },
+      {
+        "fluid": "minecraft:lava",
+        "nbt": {},
+        "amount": 100
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:calcite"
+      }
+    ]
+  }
